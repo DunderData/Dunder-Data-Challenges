@@ -1,3 +1,6 @@
 pandas
 seaborn
 scikit-learn
+dash
+ipywidgets
+jupyter_contrib_nbextensions
